@@ -1,0 +1,4 @@
+baseURL = "https://luxurycarnoogh.vercel.app"
+languageCode = "en-us"
+title = "Tesla Model y 2021"
+theme = "hugo-theme-minos"
